@@ -144,8 +144,11 @@ void loop()</br>
    }</br>
    
 ## CIRCUIT DIAGRAM:
+![led output](https://github.com/Jeganvjk/LED-array-Interfacing-/assets/132189820/6023b7a1-533e-4583-ac5f-96bcc1f4f3bf)
 
 ## OUTPUT:
+
+![led input](https://github.com/Jeganvjk/LED-array-Interfacing-/assets/132189820/2d088674-00ea-4eaf-802b-c63fab1a717f)
 
 ## RESULT:
 Thus the character was displayed in LED Array display using Arduino UNO controller.
